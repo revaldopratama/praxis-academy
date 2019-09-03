@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Game",
+            "request": "launch",
+            "mainClass": "app.Game",
+            "projectName": "Latihan 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Player",
+            "request": "launch",
+            "mainClass": "app.Player",
+            "projectName": "Latihan 2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Latihan 2"
+        }
+    ]
+}
