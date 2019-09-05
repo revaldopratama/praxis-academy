@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Advantages",
+            "request": "launch",
+            "mainClass": "app.Advantages",
+            "projectName": "Latihan 4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "app.Test",
+            "projectName": "Latihan 4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GenericMultiple",
+            "request": "launch",
+            "mainClass": "app.GenericMultiple",
+            "projectName": "Latihan 4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "app.Main",
+            "projectName": "Latihan 4"
+        }
+    ]
+}
