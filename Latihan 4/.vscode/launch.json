@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ATMMachine",
+            "request": "launch",
+            "mainClass": "app.ATMMachine",
+            "projectName": "Latihan 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateObject",
+            "request": "launch",
+            "mainClass": "app.CreateObject",
+            "projectName": "Latihan 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Latihan 3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PassPrimitiveByValue",
+            "request": "launch",
+            "mainClass": "app.PassPrimitiveByValue",
+            "projectName": "Latihan 3"
+        }
+    ]
+}
