@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SerialExample",
+            "request": "launch",
+            "mainClass": "app.SerialExample",
+            "projectName": "Latihan 5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "app.Test",
+            "projectName": "Latihan 5"
+        }
+    ]
+}

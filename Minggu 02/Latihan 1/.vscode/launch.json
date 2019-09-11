@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calculator",
+            "request": "launch",
+            "mainClass": "app.Calculator",
+            "projectName": "Latihan 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjectWithNonPureFunction",
+            "request": "launch",
+            "mainClass": "app.ObjectWithNonPureFunction",
+            "projectName": "Latihan 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "Latihan 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjectWithPureFunction",
+            "request": "launch",
+            "mainClass": "app.ObjectWithPureFunction",
+            "projectName": "Latihan 1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Array_exists",
+            "request": "launch",
+            "mainClass": "app.Array_exists",
+            "projectName": "Latihan 1"
+        }
+    ]
+}

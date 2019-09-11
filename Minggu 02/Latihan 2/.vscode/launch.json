@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyTestRunner",
+            "request": "launch",
+            "mainClass": "app.MyTestRunner",
+            "projectName": "Latihan 2"
+        }
+    ]
+}
