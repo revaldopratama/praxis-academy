@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BuilderPatternDemo",
+            "request": "launch",
+            "mainClass": "app.BuilderPatternDemo",
+            "projectName": "Latihan 4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SingletonPatternDemo",
+            "request": "launch",
+            "mainClass": "app.SingletonPatternDemo",
+            "projectName": "Latihan 4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactoryPatternDemo",
+            "request": "launch",
+            "mainClass": "app.FactoryPatternDemo",
+            "projectName": "Latihan 4"
+        }
+    ]
+}

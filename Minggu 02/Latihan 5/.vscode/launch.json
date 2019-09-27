@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Employee",
+            "request": "launch",
+            "mainClass": "main.java.Latihan.Employee",
+            "projectName": "Latihan 5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "main.java.Latihan.App",
+            "projectName": "Latihan 5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Koneksi",
+            "request": "launch",
+            "mainClass": "app.Koneksi",
+            "projectName": "Latihan 5"
+        }
+    ]
+}
